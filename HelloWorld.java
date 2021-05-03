@@ -6,3 +6,5 @@ This is a variable with a print statement
 Name = "Eric Kanguzu"
 print (Name)
 
+This is just an additional line for testing purposes
+
